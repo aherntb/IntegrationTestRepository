@@ -27,9 +27,7 @@ namespace IntegrationService.IntegrationTests
 
             var branchInfo = GetBranchLocation(directory);
 
-            //var branchName = branchInfo.Name;
 
-            //TODO: if scripts fail check the branch/folder values
             var procedures = Path.Combine(branchInfo.FullName, prodental, "Procedures", "MemberAssignment");
             var triggers = Path.Combine(branchInfo.FullName, prodental, "Triggers");
             var scripts = Path.Combine(branchInfo.FullName, prodental, "Scripts", "VBP2019");

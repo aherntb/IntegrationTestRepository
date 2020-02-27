@@ -3,7 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.29806.167
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IntegrationService", "IntegrationService.csproj", "{00979A1A-E929-4115-9A5D-B2F1719579BF}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "IntegrationService", "IntegrationService.csproj", "{00979A1A-E929-4115-9A5D-B2F1719579BF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NUnit Test Project", "..\NUnit Test Project\NUnit Test Project.csproj", "{BC0F3C88-5C1F-48AB-BE15-BA5E4FF6D7CA}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +17,10 @@ Global
 		{00979A1A-E929-4115-9A5D-B2F1719579BF}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{00979A1A-E929-4115-9A5D-B2F1719579BF}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{00979A1A-E929-4115-9A5D-B2F1719579BF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BC0F3C88-5C1F-48AB-BE15-BA5E4FF6D7CA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BC0F3C88-5C1F-48AB-BE15-BA5E4FF6D7CA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BC0F3C88-5C1F-48AB-BE15-BA5E4FF6D7CA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BC0F3C88-5C1F-48AB-BE15-BA5E4FF6D7CA}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

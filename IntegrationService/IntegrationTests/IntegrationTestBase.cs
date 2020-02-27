@@ -68,7 +68,7 @@ namespace IntegrationService.IntegrationTests
 
         protected void ExecuteQuery(string sql)
         {
-            using (var con = new SqlConnection(DatabaseSetup.ConnectionStringToUse))
+            using (var con = new SqlConnection(DatabaseSetupBase.ConnectionStringToUse))
             {
                 con.Open();
                 var cmd = con.CreateCommand();
