@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Programming\\GIT\\IntegrationTests\\NUnit Test Project\\NUnit Test Project.csproj": {}
+    "C:\\Users\\bahern\\OneDrive - DeCare Systems Ireland\\Documents\\DSI\\Learning\\GIT\\IntegrationTest\\IntegrationTestRepository\\NUnit Test Project\\NUnit Test Project.csproj": {}
   },
   "projects": {
-    "C:\\Programming\\GIT\\IntegrationTests\\NUnit Test Project\\NUnit Test Project.csproj": {
+    "C:\\Users\\bahern\\OneDrive - DeCare Systems Ireland\\Documents\\DSI\\Learning\\GIT\\IntegrationTest\\IntegrationTestRepository\\NUnit Test Project\\NUnit Test Project.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Programming\\GIT\\IntegrationTests\\NUnit Test Project\\NUnit Test Project.csproj",
+        "projectUniqueName": "C:\\Users\\bahern\\OneDrive - DeCare Systems Ireland\\Documents\\DSI\\Learning\\GIT\\IntegrationTest\\IntegrationTestRepository\\NUnit Test Project\\NUnit Test Project.csproj",
         "projectName": "NUnit Test Project",
-        "projectPath": "C:\\Programming\\GIT\\IntegrationTests\\NUnit Test Project\\NUnit Test Project.csproj",
-        "packagesPath": "C:\\Users\\Brian\\.nuget\\packages\\",
-        "outputPath": "C:\\Programming\\GIT\\IntegrationTests\\NUnit Test Project\\obj\\",
+        "projectPath": "C:\\Users\\bahern\\OneDrive - DeCare Systems Ireland\\Documents\\DSI\\Learning\\GIT\\IntegrationTest\\IntegrationTestRepository\\NUnit Test Project\\NUnit Test Project.csproj",
+        "packagesPath": "C:\\Users\\bahern\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\bahern\\OneDrive - DeCare Systems Ireland\\Documents\\DSI\\Learning\\GIT\\IntegrationTest\\IntegrationTestRepository\\NUnit Test Project\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
         ],
         "configFilePaths": [
-          "C:\\Users\\Brian\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\bahern\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [

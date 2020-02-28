@@ -1,7 +1,7 @@
 using NUnit.Framework;
 using NUnit_Test_Project.IntegrationSetup;
 
-namespace NUnit_Test_Project
+namespace NUnit_Test_Project.IntegrationSetup
 {
     public class TestOne :IntegrationTestBase
     {
